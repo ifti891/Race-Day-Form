@@ -6,7 +6,7 @@
 let raceNumber = Math.floor(Math.random() * 1000);
 
 //Did the entrant register before race day
-const isRegisteredEarly = false;
+const RegisteredEarly = false;
 
 //define racer's age for race time determination
 let runnersAge = 18;
